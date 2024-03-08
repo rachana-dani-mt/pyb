@@ -1,5 +1,11 @@
 import sys
 
+""" Prints message """
+
 def helloworld(out):
-    # uses sys out to write message
+
+    """ Uses sys out to write message """
+
     out.write("Hello world from python project! :)\n")
+
+helloworld(sys.stdout)
