@@ -1,6 +1,8 @@
 import sys
 
-""" A simple module to print 'Hello world' """
+'''
+ A simple module to print 'Hello world' 
+'''
 
 def helloworld(out):
     """ Uses sys out to write message """
